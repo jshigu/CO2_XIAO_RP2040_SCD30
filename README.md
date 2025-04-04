@@ -6,7 +6,7 @@
 　　<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/y/yshigu/20250329/20250329203458.png" alt="img" style="zoom:67%;" />
 
 　・配線図
-　　　<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/y/yshigu/20250405/20250405012305.png" alt="img" style="zoom:67%;" />
+　　<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/y/yshigu/20250405/20250405012305.png" alt="img" style="zoom:67%;" />
 　　　　
 ### ソフト
 
