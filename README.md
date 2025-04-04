@@ -19,3 +19,5 @@
 　　下記図の右上には、RH/Tセンサーがあり、温湿度も測定できます
 　　　![img](https://cdn-ak.f.st-hatena.com/images/fotolife/y/yshigu/20250329/20250329192136.png)
 
+## 関連記事
+  [](https://yshigu.net/entry/2025/03/31/120414)
